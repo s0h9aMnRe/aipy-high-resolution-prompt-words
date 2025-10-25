@@ -1,4 +1,4 @@
-# aipy-high-resolution-prompt-words
+# aipy自动编程 高分辨率提示词自留
 添加了 windll.shcore.SetProcessDpiAwareness(1) 让程序感知高分屏<br>
 设置了 tk.scaling 自动调整UI缩放<br>
 使用"思源黑体"字体<br>
