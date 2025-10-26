@@ -1,7 +1,7 @@
 # ai编程 高分辨率提示词自留
 添加了 windll.shcore.SetProcessDpiAwareness(1) 让程序感知高分屏<br>
 设置了 tk.scaling 自动调整UI缩放<br>
-使用"思源黑体"字体<br>
+使用"Tahoma字体"字体<br>
 加大了字号和控件间距<br>
 使用Frame和Canvas确保兼容性<br>
 添加滚动条，防止控件溢出<br>
@@ -28,7 +28,7 @@
 作用：确保界面元素在不同分辨率下保持合适大小<br>
 
 字体大小：<br>
-标签（Label）：10（例如：font=("微软雅黑",10)）<br>
+标签（Label）：10（例如：font=("Tahoma字体",10)）<br>
 按钮（Button）：10<br>
 输入框（Entry）：10<br>
 结果提示：11（加粗）<br>
